@@ -3,4 +3,4 @@ apiVersion: clusterregistry.k8s.io/v1alpha1
 metadata:
   name: apps-cluster-2
   label:
-    type: apps-cluster
+    cluster-type: app
