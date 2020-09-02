@@ -8,5 +8,5 @@ subjects:
   name: demo-deployer@environs-demo.iam.gserviceaccount.com
 roleRef:
   kind: ClusterRole 
-  name: edit 
+  name: cluster-admin 
   apiGroup: rbac.authorization.k8s.io
