@@ -8,8 +8,6 @@ metadata:
 subjects:
 - kind: User
   name: demo-deployer@environs-demo.iam.gserviceaccount.com
-- kind: User
-  name: r@kuci.org
 roleRef:
   kind: ClusterRole
   name: cluster-admin
